@@ -11,3 +11,7 @@
 
 ## 笔记文件
 - （待沉淀）
+
+## 原创整卷练习记录
+- 2026-10-19 原创上午75题第11题：数据库索引英文阅读主旨题，用户 B，正确 B，1/1。理解到 index speeds up retrieval but adds storage and write-maintenance overhead。
+- 单题正确不等于专业英语模块已完成；整体仍 ⬜ 未开始，待按 @study 完成最小考点教学、自适应题组和真题校准。
