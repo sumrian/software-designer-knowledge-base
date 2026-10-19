@@ -17,6 +17,9 @@
 ## 真题考法
 - 补写 `GROUP BY`/`HAVING`，计算分组结果，区分 `WHERE` 与 `HAVING`，判断 `COUNT` 对 `NULL` 的影响。
 
+## 原创模拟记录
+- 2026-10-19 上午75题模拟第7题：用户 C，正确 C，1/1。按 student_id 分组后用 `HAVING AVG(score) >= 80` 筛选；`WHERE` 用于分组前筛选，`HAVING` 用于分组后筛选。
+
 ## 我的笔记
 - 无。
 
