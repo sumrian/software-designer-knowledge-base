@@ -10,7 +10,8 @@
 - 整体：⬜ 未开始
 
 ## 笔记文件
-- （待沉淀）
+- [软件测试技术阅读](./软件测试技术阅读.md)：原创75题第26题错题 #错155。
+- [API 限流与 Retry-After 阅读](./API限流与Retry-After阅读.md)：原创75题第41题 B 正确，1/1。
 
 ## 原创整卷练习记录
 - 2026-10-19 原创上午75题第11题：数据库索引英文阅读主旨题，用户 B，正确 B，1/1。理解到 index speeds up retrieval but adds storage and write-maintenance overhead。
